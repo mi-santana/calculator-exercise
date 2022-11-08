@@ -10,7 +10,7 @@ const deleteAll = document.querySelector('.delete button');
 let result;
 
 function validateNumber() {
-    if (!n1.valueAsNumber && !n2.valueAsNumber) {
+    if (!n1.value || !n2.value) {
         alert(`Preencha os dois números!`);
         return false;
     }
