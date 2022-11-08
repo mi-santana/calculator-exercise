@@ -47,10 +47,10 @@ divideBtn.addEventListener('click', (event) => {
     } else {
         alert(`Não é possível dividir por zero!`);
     }
-    
 });
 
 multiplyBtn.addEventListener('click', (event) => {
+    event.stopPropagation();
     if (!validateNumber()) {
         return;
     }
@@ -61,5 +61,5 @@ multiplyBtn.addEventListener('click', (event) => {
 deleteAll.addEventListener('click', () => {
     n1.value = '';
     n2.value = '';
-    h2.textContent = `Resultado:`
+    h2.textContent = `Resultado:`;
 });
