@@ -8,9 +8,12 @@ Atividade proposta durante as aulas de Eventos da DOM da <a target="_blank" href
 - [x] Operações com zero
 - [x] Aviso para quando algum número for dividido por zero
 
-
-<h3 align="center"><a href="https://mi-santana.github.io/calculator-exercise/">Deploy</a> <img width="40" src="https://media0.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif"/></h3>
+<img width="60" src="https://media3.giphy.com/media/L4aM9ApMYLcQSqFYmG/giphy.gif?cid=ecf05e47e2efwp1z2rftb874w0fldsorhauxlbdy7sdz5rib&rid=giphy.gif&ct=s"/> <a target="_blank" href="https://mi-santana.github.io/calculator-exercise/">**Deploy**</a>
 
 ## Visual [After]
 
-![alt text](assets/calculator-img.png)
+![alt text](assets/calculator-img-after.png)
+
+## Visual [Before]
+
+![alt text](assets/calculator-img-before.png)
