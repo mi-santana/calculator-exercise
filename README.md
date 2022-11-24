@@ -10,9 +10,9 @@ Atividade proposta durante as aulas de Eventos da DOM da <a target="_blank" href
 
 
 ### Ferramentas utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-<img width="60" src="https://media3.giphy.com/media/L4aM9ApMYLcQSqFYmG/giphy.gif?cid=ecf05e47e2efwp1z2rftb874w0fldsorhauxlbdy7sdz5rib&rid=giphy.gif&ct=s"/> <a target="_blank" href="https://mi-santana.github.io/calculator-exercise/">**Visualize o projeto**</a>
+### 👉🏼 <a target="_blank" href="https://mi-santana.github.io/calculator-exercise/">**Visualize o projeto**</a>
 
 ## Visual [Depois]
 
