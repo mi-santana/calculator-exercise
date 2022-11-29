@@ -8,6 +8,7 @@ Atividade proposta durante as aulas de Eventos da DOM da <a target="_blank" href
 - [x] Operações com zero
 - [x] Alerta para caso o usuário tente dividir algum número por zero
 
+É válido lembrar que, o layout anterior não permitia divisões com zero, sendo considerado um campo vazio.
 
 ### Ferramentas utilizadas:
 [![Tools](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
