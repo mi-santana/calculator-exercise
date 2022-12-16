@@ -2,11 +2,16 @@
 
 Atividade proposta durante as aulas de Eventos da DOM da <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>. O resultado do projeto e sua estilização foram alterados.
 
+O obetivo desse projeto foi aprender a criar uma calculadora simples e realizar cálculos manipulando a DOM com JavaScript.
+
+
 | O que foi acrescentado: | 
 | ------ |
 | ✅ Botão de apagar </br> |
 | ✅ Operações com zero </br> |
 | ✅ Alerta para caso o usuário tente dividir algum número por zero |
+
+É válido lembrar que, o layout anterior não permitia divisões com zero, sendo considerado um campo vazio.
 
 #### 👉🏼 <a target="_blank" href="https://calculator-exercise-bymisantana.netlify.app/">**VISUALIZE O PROJETO**</a>
 
